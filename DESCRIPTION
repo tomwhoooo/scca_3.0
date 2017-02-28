@@ -1,0 +1,11 @@
+Package: scca
+Type: Package
+Title: Sparse canonical covariance analysis 
+Version: 1.1.1
+Date: 2011-02-15
+Author: Woojoo Lee, Donghwan Lee, Youngjo Lee and Yudi Pawitan
+Maintainer: Woojoo Lee <woojoo.lee@ki.se>
+Description: Functions for sparse canonical covariance analysis (SCCA)
+License: GPL-2
+LazyLoad: yes
+Packaged: 2011-06-28 11:52:52 UTC; Woojoo Lee
